@@ -48,5 +48,11 @@ make help
 | [vlnbert](https://dl.dropbox.com/s/hel0ujgn94iwh26/run_220825_pytorch_model_10.bin) | [VLN-BERT](https://github.com/arjunmajum/vln-bert): `vilbert`  fine-tuned on R2R |
 
 
+## :robot: Finetuned models in generative setting
+| Model | Description |
+| ----- | ----------- |
+| [REVERIE](https://drive.google.com/drive/folders/1MHV-WCIgKjssQP_KFEttCeHAXjVawXse?usp=sharing) | Recurrent VLN-BERT for remote referring expression with pretrained Airbert as backbone |
+| [R2R](https://drive.google.com/drive/folders/1Xye2PryZBoozzi5bjPdHbcBcbwFjWVxB?usp=sharing) | Recurrent VLN-BERT for vision-and-language navigation with pretrained Airbert as backbone |
+
 
 
