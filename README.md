@@ -40,7 +40,7 @@ make help
 | [airbert-r2rRSA](https://drive.google.com/file/d/1j0p5UGAQtKwJ505Y_z3QRr-Y1bGfQp1H/view?usp=sharing) | `airbert` fine-tuned on R2R with the shuffling loss + speaker data |
 
 
-## External models used in our scripts
+## :alien: External models used in our scripts
 
 | Model | Description |
 | ----- | ----------- |
