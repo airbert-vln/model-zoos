@@ -31,13 +31,11 @@ make help
 ```
 
 
-## :houses: Available models
+## :houses: Model pretrained on the BNB dataset
 
 | Model | Description |
 | ----- | ----------- |
 | [airbert](https://drive.google.com/file/d/19wpBYpaMtkXUjGCFG3sSItHtF6SO01Lb/view?usp=sharing) | [Airbert](https://github.com/airbert-vln/airbert) model pretrained on the BNB dataset |
-| [airbert-r2rRS](https://drive.google.com/file/d/1j0p5UGAQtKwJ505Y_z3QRr-Y1bGfQp1H/view?usp=sharing) | `airbert` fine-tuned on R2R with the shuffling loss |
-| [airbert-r2rRSA](https://drive.google.com/file/d/1j0p5UGAQtKwJ505Y_z3QRr-Y1bGfQp1H/view?usp=sharing) | `airbert` fine-tuned on R2R with the shuffling loss + speaker data |
 
 
 ## :alien: External models used in our scripts
@@ -46,6 +44,15 @@ make help
 | ----- | ----------- |
 | [vilbert](https://dl.fbaipublicfiles.com/vilbert-multi-task/pretrained_model.bin) | [ViLBERT](https://github.com/facebookresearch/vilbert-multi-task) model pretrained on Conceptual Captions |
 | [vlnbert](https://dl.dropbox.com/s/hel0ujgn94iwh26/run_220825_pytorch_model_10.bin) | [VLN-BERT](https://github.com/arjunmajum/vln-bert): `vilbert`  fine-tuned on R2R |
+
+
+
+## :robot: Finetuned models in discriminative setting
+
+| Model | Description |
+| ----- | ----------- |
+| [airbert-r2rRS](https://drive.google.com/file/d/1j0p5UGAQtKwJ505Y_z3QRr-Y1bGfQp1H/view?usp=sharing) | `airbert` fine-tuned on R2R with the shuffling loss |
+| [airbert-r2rRSA](https://drive.google.com/file/d/1j0p5UGAQtKwJ505Y_z3QRr-Y1bGfQp1H/view?usp=sharing) | `airbert` fine-tuned on R2R with the shuffling loss + speaker data |
 
 
 ## :robot: Finetuned models in generative setting
