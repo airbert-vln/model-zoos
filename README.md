@@ -25,7 +25,7 @@ We also provide a `Makefile` to help you:
 # Download everything
 make all 
 # Download a specific model
-make airbnb_ft-rsa
+make airbert-r2rRSA
 # Get all commands
 make help
 ```
